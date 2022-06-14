@@ -1,0 +1,2 @@
+# KatzParty
+MimiKatz output parser
