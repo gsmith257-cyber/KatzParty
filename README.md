@@ -1,5 +1,5 @@
 # KatzParty
-MimiKatz output parser to help put output into a format for hashcat or john
+MimiKatz output parser written in Powershell to help put output into a format for hashcat or john
 
 Point it towards a directory, as an argument, containing only the output and it will print out everything in a format for password cracking tools
 
